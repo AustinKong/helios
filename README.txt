@@ -29,6 +29,4 @@ Authors notes:
  Newton's universal law
 -Have fun with this project!
 
-
-
-ellipses are a pain in the butt
+-If you've come here to rip off my code, feel free to do so, but try not to Ctrl+C Ctrl+V, cause honestly speaking, I gave up trying to write clean code halfway through

@@ -28,7 +28,3 @@ Authors notes:
 -Also note that the units used are not accurate to reality, so are the conversions and representations - this is merely a fun project to observe the effect of
  Newton's universal law
 -Have fun with this project!
-
-
-
-ellipses are a pain in the butt

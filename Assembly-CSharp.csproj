@@ -62,13 +62,13 @@
     <Compile Include="Assets\CUIColorPicker.cs" />
     <Compile Include="Assets\Scripts\CelestialBodyCreationManager.cs" />
     <Compile Include="Assets\Scripts\CelestialBody.cs" />
+    <Compile Include="Assets\Scripts\Hotkeys.cs" />
     <Compile Include="Assets\Scripts\Others\PlanetDataPanel.cs" />
     <Compile Include="Assets\Scripts\Others\ArrowGenerator.cs" />
     <Compile Include="Assets\Scripts\Others\BodyMath.cs" />
+    <Compile Include="Assets\Scripts\Others\ParentOnlyPosition.cs" />
     <Compile Include="Assets\Scripts\Others\FPSDisplay.cs" />
     <Compile Include="Assets\Scripts\Universe.cs" />
-    <Compile Include="Assets\Scripts\Others\ParentOnlyPosition.cs" />
-    <Compile Include="Assets\Scripts\Hotkeys.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

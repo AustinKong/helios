@@ -5057,6 +5057,7 @@ GameObject:
   - component: {fileID: 1966773974}
   - component: {fileID: 1966773976}
   - component: {fileID: 1966773972}
+  - component: {fileID: 1966773975}
   m_Layer: 0
   m_Name: Manager
   m_TagString: Untagged
@@ -5130,6 +5131,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   selectedCelestialBody: {fileID: 0}
   mainCamera: {fileID: 998297607}
+--- !u!114 &1966773975
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1966773969}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf5db93ffb23e8d4e8ec79f18edc72c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  click0: {fileID: 0}
+  click1: {fileID: 0}
 --- !u!114 &1966773976
 MonoBehaviour:
   m_ObjectHideFlags: 0

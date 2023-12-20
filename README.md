@@ -4,9 +4,19 @@ A gravity simulation using Newton's universal law of gravitation and Kepler's 1s
 ![Image](Image.png)
 ### Description
 Project "Helios", is a planetary simulation built using Unity, based on Newton's universal law of gravitation and Kepler's 1st law of planetary motion.
+<br>
+Features:
+* Create different celestial bodies such as star, planet, moon, satellite, comet
+* Customize the color, name, density, diamter, mass of the celestial body
+* Preview and edit the trajectory of the celestial body
+* View info on celestial bodies, such as velocity, diameter, density, mass
+* View trajectory and celestial body trails
+* Collisions between masses!
+<br>
 Some info:
 * Trajectory shown when creating a celestial body is not an absolute prediction of its trajectory, it is merely the treajectory that would be taken if m1 >> m2
 * Units used in this project are not accurate to reality, so are the conversions and representations - this is merely a fun project to observe the effects to Newton's Law
+* Real-time fps counter
 * G = 0.6
 * Constant time step: 0.02s
 ### Technology
@@ -39,6 +49,7 @@ This project is no longer under active development. Suggestions, issues and bug 
 	Delete - Delete selected body
 	F - Focus camera on a body
 	Q - Randomly select a body
+ 	T - Toggle lighting effects and trails
 ## Authors
 Austin Kong [@AustinKong](https://github.com/AustinKong)
 ## License

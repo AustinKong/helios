@@ -1,7 +1,7 @@
 # Project Helios: N-body gravity simulation
 A gravity simulation using Newton's universal law of gravitation and Kepler's 1st law of planetary motion!
 ## About
-![Image](Image.png)
+![GIF](Helios.gif)
 ### Description
 Project "Helios", is a planetary simulation built using Unity, based on Newton's universal law of gravitation and Kepler's 1st law of planetary motion.
 <br>

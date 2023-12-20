@@ -12,8 +12,9 @@ Features:
 * View info on celestial bodies, such as velocity, diameter, density, mass
 * View trajectory and celestial body trails
 * Collisions between masses!
-<br>
+
 Some info:
+
 * Trajectory shown when creating a celestial body is not an absolute prediction of its trajectory, it is merely the treajectory that would be taken if m1 >> m2
 * Units used in this project are not accurate to reality, so are the conversions and representations - this is merely a fun project to observe the effects to Newton's Law
 * Real-time fps counter

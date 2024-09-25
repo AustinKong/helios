@@ -7,7 +7,7 @@ Project "Helios", is a planetary simulation built using Unity, based on Newton's
 <br>
 Features:
 * Create different celestial bodies such as star, planet, moon, satellite, comet
-* Customize the color, name, density, diamter, mass of the celestial body
+* Customize the color, name, density, diameter, mass of the celestial body
 * Preview and edit the trajectory of the celestial body
 * View info on celestial bodies, such as velocity, diameter, density, mass
 * View trajectory and celestial body trails
@@ -15,7 +15,7 @@ Features:
 
 Some info:
 
-* Trajectory shown when creating a celestial body is not an absolute prediction of its trajectory, it is merely the treajectory that would be taken if m1 >> m2
+* Trajectory shown when creating a celestial body is not an absolute prediction of its trajectory, it is merely the trajectory that would be taken if m1 >> m2
 * Units used in this project are not accurate to reality, so are the conversions and representations - this is merely a fun project to observe the effects to Newton's Law
 * Real-time fps counter
 * G = 0.6
